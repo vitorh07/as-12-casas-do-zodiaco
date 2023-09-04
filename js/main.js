@@ -81,5 +81,6 @@ function MudaDesenho(){
         texto.innerHTML = "Cavaleiro não encontrado... =(";
         imagem.setAttribute("src","img/x.webp");
         imagem.setAttribute("width","250px");
+        div.innerHTML = ""
     }
 }
